@@ -1,0 +1,124 @@
+{
+  "model": "TF-IDF (1-2gram, 40k feat) + LinearSVC(C=0.5, class_weight=balanced)",
+  "accuracy": 0.602969711148114,
+  "f1_macro": 0.5271316453785306,
+  "f1_weighted": 0.6086189157049995,
+  "n_train": 411774,
+  "n_test": 72667,
+  "classes": [
+    "BIOCHEMISTRY",
+    "BIOMEDICAL",
+    "BIOTECHNOLOGY",
+    "CHEMISTRY",
+    "CIVIL",
+    "COMMUNICATION",
+    "COMPUTER",
+    "ELECTRICAL",
+    "ELECTRONICS",
+    "FOOD",
+    "MECHANICAL",
+    "METALLURGY",
+    "MISCELLANEOUS",
+    "PHYSICS",
+    "POLYMER",
+    "TEXTILE"
+  ],
+  "per_class": {
+    "BIOCHEMISTRY": {
+      "precision": 0.2694271128757799,
+      "recall": 0.3345070422535211,
+      "f1-score": 0.29846057178762175,
+      "support": 1420.0
+    },
+    "BIOMEDICAL": {
+      "precision": 0.5977792509115015,
+      "recall": 0.6255636489767603,
+      "f1-score": 0.6113559322033898,
+      "support": 5766.0
+    },
+    "BIOTECHNOLOGY": {
+      "precision": 0.6154430379746836,
+      "recall": 0.6239733059548255,
+      "f1-score": 0.6196788172317105,
+      "support": 3896.0
+    },
+    "CHEMISTRY": {
+      "precision": 0.7649654185547341,
+      "recall": 0.6324558809030859,
+      "f1-score": 0.6924280857034918,
+      "support": 10143.0
+    },
+    "CIVIL": {
+      "precision": 0.25911286780852,
+      "recall": 0.5953582240161454,
+      "f1-score": 0.36107711138310894,
+      "support": 991.0
+    },
+    "COMMUNICATION": {
+      "precision": 0.6493586771750889,
+      "recall": 0.6933993399339934,
+      "f1-score": 0.6706567712074056,
+      "support": 6060.0
+    },
+    "COMPUTER": {
+      "precision": 0.6909899678213136,
+      "recall": 0.6328334922423507,
+      "f1-score": 0.660634303035787,
+      "support": 11537.0
+    },
+    "ELECTRICAL": {
+      "precision": 0.60595308495959,
+      "recall": 0.6764964788732394,
+      "f1-score": 0.6392846001871686,
+      "support": 4544.0
+    },
+    "ELECTRONICS": {
+      "precision": 0.5513912549687677,
+      "recall": 0.41336739037888465,
+      "f1-score": 0.47250608272506084,
+      "support": 7047.0
+    },
+    "FOOD": {
+      "precision": 0.4187749667110519,
+      "recall": 0.7408716136631331,
+      "f1-score": 0.5350914504466184,
+      "support": 849.0
+    },
+    "MECHANICAL": {
+      "precision": 0.7042206154363545,
+      "recall": 0.6173349056603774,
+      "f1-score": 0.6579216086717461,
+      "support": 13568.0
+    },
+    "METALLURGY": {
+      "precision": 0.4389261744966443,
+      "recall": 0.7631271878646441,
+      "f1-score": 0.5573072006817213,
+      "support": 857.0
+    },
+    "MISCELLANEOUS": {
+      "precision": 0.15939278937381404,
+      "recall": 0.42424242424242425,
+      "f1-score": 0.2317241379310345,
+      "support": 198.0
+    },
+    "PHYSICS": {
+      "precision": 0.3959448042804844,
+      "recall": 0.4164691943127962,
+      "f1-score": 0.40594774072470047,
+      "support": 3376.0
+    },
+    "POLYMER": {
+      "precision": 0.49821109123434704,
+      "recall": 0.7050632911392405,
+      "f1-score": 0.5838574423480084,
+      "support": 1580.0
+    },
+    "TEXTILE": {
+      "precision": 0.32752403846153844,
+      "recall": 0.6526946107784432,
+      "f1-score": 0.4361744697879152,
+      "support": 835.0
+    }
+  }
+}

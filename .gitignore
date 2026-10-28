@@ -1,0 +1,10 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+.pytest_cache/
+backend/cache/
+frontend/dist/
+backend/data/patents_combined.csv

@@ -1,0 +1,194 @@
+{
+  "input_folder": "D:\\Study\\Projects\\Dataset-idea lab",
+  "processed_files": 8,
+  "rows_after_within_file_exact_deduplication": 751100,
+  "status_counts": {
+    "Published": 447203,
+    "Granted": 303897
+  },
+  "audit_by_file": [
+    {
+      "file": "7a444d4c-319a-41e5-a6cc-6b1ff681c7c6_01017afd9c49cec45082099488e27215.csv",
+      "status": "Granted",
+      "rows_before": 99789,
+      "exact_duplicate_rows": 0,
+      "columns": [
+        "PUBLICATION_NUMBER",
+        "PUBLICATION_DATE",
+        "IPO_LOCATION",
+        "APPLICATION_TYPE_DESC",
+        "APPLICATION_NUMBER",
+        "DATE_OF_FILING",
+        "TITLE_OF_INVENTION",
+        "FIELD_OF_INVENTION",
+        "NO_OF_PAGES",
+        "NO_OF_CLAIMS",
+        "PATENT_STATUS",
+        "SOURCE_FILE"
+      ],
+      "empty_titles": 1,
+      "missing_application_numbers": 0
+    },
+    {
+      "file": "7a444d4c-319a-41e5-a6cc-6b1ff681c7c6_0e5a1415128d427de56831b5214da2e6.csv",
+      "status": "Granted",
+      "rows_before": 38564,
+      "exact_duplicate_rows": 6834,
+      "columns": [
+        "PUBLICATION_NUMBER",
+        "PUBLICATION_DATE",
+        "IPO_LOCATION",
+        "APPLICATION_TYPE_DESC",
+        "APPLICATION_NUMBER",
+        "DATE_OF_FILING",
+        "TITLE_OF_INVENTION",
+        "FIELD_OF_INVENTION",
+        "NO_OF_PAGES",
+        "NO_OF_CLAIMS",
+        "PATENT_STATUS",
+        "SOURCE_FILE"
+      ],
+      "empty_titles": 0,
+      "missing_application_numbers": 0
+    },
+    {
+      "file": "7a444d4c-319a-41e5-a6cc-6b1ff681c7c6_2c58b3bace12740926dd52314c8dfa2b.csv",
+      "status": "Granted",
+      "rows_before": 121109,
+      "exact_duplicate_rows": 0,
+      "columns": [
+        "PUBLICATION_NUMBER",
+        "PUBLICATION_DATE",
+        "IPO_LOCATION",
+        "APPLICATION_TYPE_DESC",
+        "APPLICATION_NUMBER",
+        "DATE_OF_FILING",
+        "TITLE_OF_INVENTION",
+        "FIELD_OF_INVENTION",
+        "NO_OF_PAGES",
+        "NO_OF_CLAIMS",
+        "PATENT_STATUS",
+        "SOURCE_FILE"
+      ],
+      "empty_titles": 1,
+      "missing_application_numbers": 0
+    },
+    {
+      "file": "7a444d4c-319a-41e5-a6cc-6b1ff681c7c6_ab47cc9141545f78ccd07801e5f0100b.csv",
+      "status": "Granted",
+      "rows_before": 51269,
+      "exact_duplicate_rows": 0,
+      "columns": [
+        "PUBLICATION_NUMBER",
+        "PUBLICATION_DATE",
+        "IPO_LOCATION",
+        "APPLICATION_TYPE_DESC",
+        "APPLICATION_NUMBER",
+        "DATE_OF_FILING",
+        "TITLE_OF_INVENTION",
+        "FIELD_OF_INVENTION",
+        "NO_OF_PAGES",
+        "NO_OF_CLAIMS",
+        "PATENT_STATUS",
+        "SOURCE_FILE"
+      ],
+      "empty_titles": 1,
+      "missing_application_numbers": 0
+    },
+    {
+      "file": "90855660-1c46-459b-8b83-f9ca720da4c5_01017afd9c49cec45082099488e27215.csv",
+      "status": "Published",
+      "rows_before": 192241,
+      "exact_duplicate_rows": 37072,
+      "columns": [
+        "PUBLICATION_NUMBER",
+        "PUBLICATION_DATE",
+        "IPO_LOCATION",
+        "APPLICATION_TYPE_DESC",
+        "APPLICATION_NUMBER",
+        "DATE_OF_FILING",
+        "TITLE_OF_INVENTION",
+        "FIELD_OF_INVENTION",
+        "NO_OF_PAGES",
+        "NO_OF_CLAIMS",
+        "PATENT_STATUS",
+        "SOURCE_FILE"
+      ],
+      "empty_titles": 1,
+      "missing_application_numbers": 0
+    },
+    {
+      "file": "90855660-1c46-459b-8b83-f9ca720da4c5_0e5a1415128d427de56831b5214da2e6.csv",
+      "status": "Published",
+      "rows_before": 29330,
+      "exact_duplicate_rows": 1521,
+      "columns": [
+        "PUBLICATION_NUMBER",
+        "PUBLICATION_DATE",
+        "IPO_LOCATION",
+        "APPLICATION_TYPE_DESC",
+        "APPLICATION_NUMBER",
+        "DATE_OF_FILING",
+        "TITLE_OF_INVENTION",
+        "FIELD_OF_INVENTION",
+        "NO_OF_PAGES",
+        "NO_OF_CLAIMS",
+        "PATENT_STATUS",
+        "SOURCE_FILE"
+      ],
+      "empty_titles": 0,
+      "missing_application_numbers": 0
+    },
+    {
+      "file": "90855660-1c46-459b-8b83-f9ca720da4c5_2c58b3bace12740926dd52314c8dfa2b.csv",
+      "status": "Published",
+      "rows_before": 192723,
+      "exact_duplicate_rows": 0,
+      "columns": [
+        "PUBLICATION_NUMBER",
+        "PUBLICATION_DATE",
+        "IPO_LOCATION",
+        "APPLICATION_TYPE_DESC",
+        "APPLICATION_NUMBER",
+        "DATE_OF_FILING",
+        "TITLE_OF_INVENTION",
+        "FIELD_OF_INVENTION",
+        "NO_OF_PAGES",
+        "NO_OF_CLAIMS",
+        "PATENT_STATUS",
+        "SOURCE_FILE"
+      ],
+      "empty_titles": 0,
+      "missing_application_numbers": 0
+    },
+    {
+      "file": "90855660-1c46-459b-8b83-f9ca720da4c5_ab47cc9141545f78ccd07801e5f0100b.csv",
+      "status": "Published",
+      "rows_before": 71502,
+      "exact_duplicate_rows": 0,
+      "columns": [
+        "PUBLICATION_NUMBER",
+        "PUBLICATION_DATE",
+        "IPO_LOCATION",
+        "APPLICATION_TYPE_DESC",
+        "APPLICATION_NUMBER",
+        "DATE_OF_FILING",
+        "TITLE_OF_INVENTION",
+        "FIELD_OF_INVENTION",
+        "NO_OF_PAGES",
+        "NO_OF_CLAIMS",
+        "PATENT_STATUS",
+        "SOURCE_FILE"
+      ],
+      "empty_titles": 0,
+      "missing_application_numbers": 0
+    }
+  ],
+  "notes": [
+    "Original CSV files were not modified.",
+    "Only exact duplicate rows within each source file were removed.",
+    "Records with the same application number were not automatically removed.",
+    "Cross-file and published/granted overlap needs separate review.",
+    "Filename-based status detection must be verified."
+  ]
+}
